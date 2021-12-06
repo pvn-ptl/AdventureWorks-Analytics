@@ -10,10 +10,7 @@ Adventure Works is a fictional bicycle manufacturing company, this database cont
 
 ## Data Model
 
-
-
-![](https://user-images.githubusercontent.com/77071381/144877910-d23cb043-44d3-4961-be4e-06c9b37c3ba4.mp4)
-
+<img width="620" alt="DataModel" src="https://user-images.githubusercontent.com/77071381/144878202-b956bda9-1978-4363-966a-b2fc701a2894.png">
 
 
 ## Built With
