@@ -18,6 +18,12 @@ Adventure Works is a fictional bicycle manufacturing company, this database cont
 •[Power BI](https://powerbi.microsoft.com/en-us/)
 •[SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
+## Details
+
+For more details about the analysis please refer to this article
+
+[Detailed Analysis](https://pvn-ptl.notion.site/AdventureWorks-Analysis-a8aa966cf5b64e23bf6eb797a2663c5f)
+
 ## Features
 
 ![Dashboard Features](https://user-images.githubusercontent.com/77071381/144880706-4790bf9e-0def-474a-a310-7fdc01605060.gif)
@@ -37,9 +43,3 @@ Adventure Works is a fictional bicycle manufacturing company, this database cont
 
 <img width="935" alt="Inventory data overview" src="https://user-images.githubusercontent.com/77071381/144878446-b7ccbe1b-f846-4043-827a-46bc0ce78e8b.png">
 
-
-## Details
-
-For more details about the analysis please refer to this article
-
-[Detailed Analysis](https://pvn-ptl.notion.site/AdventureWorks-Analysis-a8aa966cf5b64e23bf6eb797a2663c5f)
