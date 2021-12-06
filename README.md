@@ -11,6 +11,11 @@ Adventure Works is a fictional bicycle manufacturing company, this database cont
 ## Data Model
 
 
+
+![](https://user-images.githubusercontent.com/77071381/144877910-d23cb043-44d3-4961-be4e-06c9b37c3ba4.mp4)
+
+
+
 ## Built With
 
 •[Power BI](https://powerbi.microsoft.com/en-us/)
