@@ -20,6 +20,15 @@ Adventure Works is a fictional bicycle manufacturing company, this database cont
 
 ## Features
 
+<img width="937" alt="Main Page" src="https://user-images.githubusercontent.com/77071381/144878303-188ac094-da15-4fa0-b9d1-e033662dfb4f.png">
+
+<img width="935" alt="Production Overview Page" src="https://user-images.githubusercontent.com/77071381/144878352-829e51c2-67ed-461f-8e49-745457f62532.png">
+
+<img width="934" alt="Production Category Analysis" src="https://user-images.githubusercontent.com/77071381/144878416-134f7a4d-63d6-41f7-a0fe-6680f04d9900.png">
+
+<img width="935" alt="Inventory data overview" src="https://user-images.githubusercontent.com/77071381/144878446-b7ccbe1b-f846-4043-827a-46bc0ce78e8b.png">
+
+
 ## Details
 
 For more details about the analysis please refer to this article
